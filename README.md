@@ -4,3 +4,4 @@ Git, a cool SCM
 now thinking...
 extra line
 bar and BAZ
+iketeru_git
